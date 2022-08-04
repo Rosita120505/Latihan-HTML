@@ -1,0 +1,12 @@
+*{
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  #link{
+    color:blue;
+    font-style: oblique; 
+  }
+  img{
+      height:90px;
+    width: 90px;
+  }
